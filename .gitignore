@@ -1,0 +1,22 @@
+# Archivos temporales y de reporte de Xilinx / AMD Vivado
+*.log
+*.jou
+*.str
+*.backup
+*.pb
+*.wdb
+*.vcd
+
+# Directorios generados por Vivado
+.Xil/
+*.sim/
+*.cache/
+*.hw/
+*.ip_user_files/
+*.runs/
+
+# Archivos de entorno y SO
+.DS_Store
+Thumbs.db
+desktop.ini
+.vscode/
